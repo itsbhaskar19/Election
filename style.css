@@ -80,7 +80,9 @@ button:hover {
   border-radius: 50px;
 }
 .general{
+  display:flex;
   align-items:center;
   margin-top:20px;
   margin-left:30px;
+
 }
